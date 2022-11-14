@@ -8,4 +8,4 @@ Importamt to remember:
 *2. Mistakes are valuable*
 *3. Constructive critiscism is helpfull*
 
-My name is Yurii, and here is my portfolio [https://yhluk.github.io/reading-notes/]
+My name is Yurii, and here is my [Portfolio] (https://yhluk.github.io/reading-notes/)
