@@ -4,7 +4,7 @@ Growth mindset is **believing** that your brain can grow and you can learn many 
 
 Importamt to remember:
 
-*1. Chelenge helps me grow*
+Markup : *1. Chelenge helps me grow*
 *2. Mistakes are valuable*
 *3. Constructive critiscism is helpfull*
 
