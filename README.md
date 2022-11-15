@@ -10,4 +10,5 @@ Importamt to remember:
   
 My name is Yurii, and here is my [Portfolio](https://github.com/yhluk)
 
-[Notes](class1.md)
+[102](code-102/README.md)
+
