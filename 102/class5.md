@@ -13,6 +13,7 @@ property2: value2;
 
 Include external css file
 <link rel="stylesheet" type="text/css" href="/style.css" />
+
 Internal styles
 <style type="text/css">
 div { color: #444;}
