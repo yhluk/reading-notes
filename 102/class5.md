@@ -19,7 +19,8 @@ Internal styles
 div { color: #444;}
 </style>
 
-Inline styles
+I![Screenshot 2022-11-17 at 2 13 43 PM](https://user-images.githubusercontent.com/118200431/202571381-c8cd5bcf-bf62-48ae-8ac1-6d19ba5a859b.png)
+nline styles
 <tag style="property: value"> </tag>
 
 ## Things I want to know more about
