@@ -10,5 +10,5 @@ Importamt to remember:
   
 My name is Yurii, and here is my [Portfolio](https://github.com/yhluk)
 
-[102](code-102/README.md)
+[102](102/README.md)
 
