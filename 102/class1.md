@@ -1,11 +1,4 @@
-Reflection and Discussion
-Below is a collection of resources of varying types and lengths which describe the topics from lecture.
+What Is Markdown?
+Markdown is a markup language used to create formatted text, typically for publishing on the internet. If you're not familiar, a markup language refers to a system that includes syntax elements that adjust the appearance of, but do not appear in, the final document.
 
-Go through these resources, and create a page in your reading-notes repo that summarizes the topics you learned as though you were presenting the material to a non-technical friend interested in learning about it.
-
-Note entry ideas:
-
-Blog Article (2-3 paragraphs with code sample)
-Dictionary / Flash Cards
-Notes in outline form
-Fill-in-the-blank worksheet of key concepts
+For example, when you write "**bold text**" in a Markdown document, it will appear as "bold text".
