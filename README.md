@@ -10,7 +10,7 @@ Importamt to remember:
   
 My name is Yurii, and here is my [Portfolio](https://github.com/yhluk)
 
-[class1](reading-notes/102)
+[class1](reading-notes/102/class1.md)
 [class2](reading-notes/102)
 [class3](reading-notes/102)
 [class4](reading-notes/102)
