@@ -10,10 +10,11 @@ Importamt to remember:
   
 My name is Yurii, and here is my [Portfolio](https://github.com/yhluk)
 
-[class1](102/class1.md)
-[class2](103/class1.md)
-[class3](104/class1.md)
-[class4](105/class1.md)
-[class5](106/class1.md)
-[class6](107/class1.md)
-[class7](108/class1.md)
+[class1](reading-notes/reading-notes/102/class1.md)
+[class2](reading-notes/102)
+[class3](reading-notes/102)
+[class4](reading-notes/102)
+[class5](reading-notes/102)
+[class6](reading-notes/102)
+[class7](reading-notes/102)
+[class8](reading-notes/102)
