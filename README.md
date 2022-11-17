@@ -1,5 +1,8 @@
 ## Yurii's reading Journal
 
+👋 Hi, I’m @yhluk
+👀 I’m interested in learning new things
+🌱 I’m currently learning how to code
 
 My name is Yurii, and here is my [Portfolio](https://github.com/yhluk)
 
