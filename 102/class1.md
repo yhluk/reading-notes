@@ -10,7 +10,7 @@ but do not appear in, the final document.
 
 # Markdown Guide
 
-![The Ultimate Guide to Markdown](http://blog.ghost.org/content/images/2015/03/markdown-guide-1.jpg)
+![The Ultimate Guide to Markdown] 
 
 ## Basic Markdown Formatting
 
@@ -73,22 +73,7 @@ Result:
 2. Prepare ingredients  
 3. Cook delicious things
 
-### Images
-
-    ![Alt Text](url)
-
-Result:
-
-![m'lady](http://i.imgur.com/v8IVDka.jpg)
-
-### Links
-
-    [link](http://example.com)
-    
-Result:
-
-[link](http://example.com)
-
+ 
 ### Blockquotes
 
     As Kanye West said:
