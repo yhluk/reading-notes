@@ -4,6 +4,7 @@ The control flow is the order in which the computer executes statements in a scr
 
 For example, imagine a script used to validate user data from a webpage form. The script submits validated data, but if the user, say, leaves a required field empty, the script prompts them to fill it in. To do this, the script uses a conditional structure or if...else, so that different code executes depending on whether the form is complete or not:
 
+<img width="952" alt="Screenshot 2022-11-17 at 6 30 03 PM" src="https://user-images.githubusercontent.com/118200431/202603184-37d30d36-6e81-41b4-920e-93961cc5d478.png">
 
 - Control flow = order computer executes statements in a script
 - function = block of code to perfrom particular task
