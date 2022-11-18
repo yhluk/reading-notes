@@ -13,8 +13,7 @@ it will appear as "bold text".
 
 To create a heading, add number signs (#) in front of a word or phrase. 
 The number of number signs you use should correspond to the heading level. 
-For example, to create a heading level three '(<h3>)', use three number signs 
- '(e.g., ### My Header)".
+
 
  ![Screenshot 2022-11-17 at 8 58 07 AM](https://user-images.githubusercontent.com/118200431/202509679-db3f7f45-5fa1-4d9b-9696-184ace6ef427.png)
 
