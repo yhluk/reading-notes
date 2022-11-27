@@ -1,9 +1,10 @@
 ## What is HTML?
-HTML (HyperText Markup Language) is a markup language that tells web browsers 
-how to structure the web pages you visit. It can be as complicated or as simple 
-as the web developer wants it to be. HTML consists of a series of elements, which 
-you use to enclose, wrap, or mark up different parts of content to make it appear 
-or act in a certain way. The enclosing tags can make content into a hyperlink to 
-connect to another page, italicize words, and so on. For example, consider the 
-following line of text:
+So what is HTML?
+HTML is a markup language that defines the structure of your content. 
+HTML consists of a series of elements, which you use to enclose, or wrap, 
+different parts of the content to make it appear a certain way, or act
+a certain way. The enclosing tags can make a word or image hyperlink to 
+somewhere else, can italicize words, can make the font bigger or smaller, 
+and so on. For example, take the following line of content:
 
+(https://user-images.githubusercontent.com/118200431/202606622-5b599de0-65f6-417d-b124-ceabf71ec030.png)
