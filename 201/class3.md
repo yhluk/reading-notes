@@ -39,3 +39,14 @@ Sets the numbering type:
 - I for uppercase Roman numerals
 - 1 for numbers (default)
 - The specified type is used for the entire list unless a different type attribute is used on an enclosed <li> element.
+  
+  ## Browser compatibility:
+  
+  ![Screenshot 2022-11-30 at 8 50 15 AM](https://user-images.githubusercontent.com/118200431/204858749-75f9ce62-6151-446d-b209-ef5923bcd380.png)<
+`
+  '
+  
+## <ul>: The Unordered List element
+  
+The <ul> HTML element represents an unordered list of items, typically rendered as a bulleted list.
+  
