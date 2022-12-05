@@ -16,7 +16,7 @@ my notes from 102 ## Here is some of my notes from 102
 - [201class3](201/class3.md)
 - [201class4](201/class4.md)
 - [201class5](201/class5.md)
-- [201class6](201/class6.md)
+- [201class6 - JavaScript object basics](201/class6.md)
 - [201class7](201/class7.md)
 - [201class8](201/class8.md)
 - [201class9](201/class9.md)
