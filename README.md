@@ -7,10 +7,14 @@
 My name is Yurii, and here is my [Portfolio](https://github.com/yhluk)
 
 my notes from 102 ## Here is some of my notes from 102
-## [102](102)
 
-## [201](201)
-## Here is some of my notes from 201
+ + ## [102](102)
+
+ + ## [201](201)
+
+ + ## [301](301)
+
+<!-- ## Here is some of my notes from 201
 - [What is Html](201/class1.md)
 - [201class2](201/class2.md)
 - [201class3](201/class3.md)
@@ -25,4 +29,4 @@ my notes from 102 ## Here is some of my notes from 102
 - [201class12](201/class12.md)
 - [201class13](201/class13.md)
 - [201class14](201/class14.md)
-- [201class15](201/class15.md)
+- [201class15](201/class15.md) -->
